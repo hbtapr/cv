@@ -141,5 +141,5 @@ hr {
     }
 
 .icons {
-    fill: #EAF6F6;
+filter: invert(97%) sepia(19%) saturate(116%) hue-rotate(105deg) brightness(98%) contrast(97%);
     }
